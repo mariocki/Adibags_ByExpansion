@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     3914,
 
+    35683,
     36173,
     36385,
     36458,
@@ -14,7 +15,18 @@ AddonTable.loot = {
     44404,
     44408,
 
+    44683,
+
+    112346,
+    112348,
+    112355,
+    112361,
+    112367,
     113684,
+    113688,
+    113758,
+
+    156688,
 
     -- Death Knight Starter Gear
     38661,

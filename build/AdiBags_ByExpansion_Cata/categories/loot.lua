@@ -5,11 +5,10 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     -- Uncommon (Green)
     55314,
+    55421,
     55422,
     55423,
-    55441,
     55495,
-    55531,
     55567,
     55619,
     55639,
@@ -18,6 +17,10 @@ AddonTable.loot = {
     55755,
     55773,
     55772,
+
+    56300,
+
+    113695,
 
     -- BoE (Non-Appearence)
     55403,

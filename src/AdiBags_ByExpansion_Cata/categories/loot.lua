@@ -5,11 +5,10 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     -- Uncommon (Green)
     55314, -- Thondroril Cloak
+    55421, -- Mereldar Ring
     55422, -- Thondroril Ring
     55423, -- Blackwolf Ring
-    55441, -- Blackwolf Spellblade
     55495, -- Crystalvein Vambraces
-    55531, -- Crystalvein Helm
     55567, -- Talondeep Bracers (Mail)
     55619, -- Highperch Shoulders
     55639, -- Ravenholdt Bindings
@@ -18,6 +17,10 @@ AddonTable.loot = {
     55755, -- Mystral Leggings (Cloth)
     55773, -- Mystical Cord
     55772, -- Everstill Cord
+
+    56300, -- Quicksilver Amulet
+
+    113695, -- Emberspark Plate Helm
 
     -- BoE (Non-Appearence)
     55403, -- Mereldar Amulet

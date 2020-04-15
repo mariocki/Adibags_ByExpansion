@@ -33,6 +33,7 @@ AddonTable.transmog = {
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
     55467, -- Bladefist Greatsword
+    55480, -- Swamplight Wand
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
     55493, -- Ravencrest Vambraces
@@ -41,7 +42,9 @@ AddonTable.transmog = {
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets
     55522, -- Crystalvein Gauntlets
+    55531, -- Crystalvein Helm
     55538, -- Ravencrest Legplates
+    55441, -- Blackwolf Spellblade
     55548, -- Stonewrought Pauldrons
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
@@ -103,6 +106,7 @@ AddonTable.transmog = {
     59901, -- Heaving Plates of Protection [Plate][Shoulder]
 
     67119, -- Thousand Bandage Drape
+    67127, -- Bracers of Caustic Purification
 
     71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow

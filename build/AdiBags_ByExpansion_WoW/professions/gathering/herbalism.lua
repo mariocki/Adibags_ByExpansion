@@ -31,5 +31,7 @@ AddonTable.herbalism = {
     -- Partial Parts
     108327,
     108328,
+    108329,
+    108330,
     108331,
 }

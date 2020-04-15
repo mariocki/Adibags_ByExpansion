@@ -16,15 +16,20 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
+    128954, -- Power Handlers Gloves
     128956, -- Fel-Etched Glaive
     128958, -- Leko's Leash
 
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
+    129995, -- Sablehide Handguards
 
     132243, -- Fel-Etched Glaive
+    132906, -- Leywalker Cord
     132963, -- Young Drake's Impulse
 
+    133314, -- Power Handlers Gloves
+    133321, -- Illidari Gloves
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
     133312, -- Torment Ender's Chestguard
@@ -35,10 +40,8 @@ AddonTable.loot = {
     134179, -- Skoldiir Breastplate
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
-    134530, -- Loop of Vitriolic Intent
 
     137329, -- Figurehead of the Naglfar
-    137352, -- Tunic of Smoldering Ire
     137497, -- Footpads of the Swift Balestra
 
     139089, -- Night Dreamer Robe

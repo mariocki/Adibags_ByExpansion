@@ -9,10 +9,26 @@ local module = {
     ["namespace"] = "Legion",
     ["prefix"] = "07. Legion - ",
     ["description"] = "Legion",
+    ["dungeons"] = {
+        ["arcway"] = "The Arcway",
+        ["azshara"] = "Eye of Azshara",
+        ["blackrook"] = "Black Rook Hold",
+        ["cathedral"] = "Cathedral of Eternal Night",
+        ["cos"] = "Court of Stars",
+        ["darkheart"] = "Darkheart Thicket",
+        ["halls"] = "Halls of Valor",
+        ["karazhan"] = "Return to Karazhan",
+        ["maw"] = "Maw of Souls",
+        ["neltharion"] = "Neltharion's Lair",
+        ["triumvirate"] = "Seat of the Triumvirate",
+        ["violethold"] = "Assault on Violet Hold",
+        ["wardens"] = "Vault of the Wardens"
+    },
     ["raids"] = {
         ["emeraldnightmare"] = "Emerald Nightmare",
-        ["antorus"] = "Antorus",
-        ["tov"] = "Trial of Valor"
+        ["tov"] = "Trial of Valor",
+        ["tomb"] = "Tomb of Sargeras",
+        ["antorus"] = "Antorus"
     }
 }
 

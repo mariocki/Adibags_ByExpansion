@@ -16,3 +16,4 @@ ignore:
   - .github
   - .travis.yml
   - README.md
+  - LICENSE

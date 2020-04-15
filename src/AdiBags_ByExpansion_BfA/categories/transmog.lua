@@ -16,9 +16,12 @@ AddonTable.transmog = {
     154829, -- Zala'mar Legguards
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
+    154842, -- Corlain Girdle
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
+    154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
+    154844, -- Corlain Greaves
 
     159158, -- Ashvane Company Chestplate
     159166, -- Foxhollow Drape
@@ -26,7 +29,9 @@ AddonTable.transmog = {
     159171, -- Freehold Cowl
     159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
+    159184, -- Foxhollow Circlet
     159188, -- Foxhollow Sandals
+    159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
@@ -53,6 +58,7 @@ AddonTable.transmog = {
     159488, -- Zem'lan Cleaver
     159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
+    159497, -- Deepwarden Flintlock
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
     159507, -- Zem'lan Warglaive
@@ -142,6 +148,8 @@ AddonTable.transmog = {
 
     161944, -- Coarse Leather Waistguard
 
+    163957, -- Carmodius Crystalline Stylus
+
     164342, -- Plundered Geode Gavel
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
@@ -149,7 +157,15 @@ AddonTable.transmog = {
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
 
+    169402, -- Deeptide Amice
+    169403, -- Deeptide Cinch
+    169413, -- Reefwalker Hauberk
     169433, -- Wavecrash Greatcloak
 
+    170115, -- Massive Viridian Claw
+    170116, -- Darkened Slicer
+    170118, -- Centurion's Shortsword
     170119, -- Slithershell Warglaive
+    170120, -- Handmaiden's Longstaff
+    170201, -- Deeptide Scroll
 }
