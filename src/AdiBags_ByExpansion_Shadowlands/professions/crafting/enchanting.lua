@@ -9,6 +9,7 @@ AddonTable.enchanting = {
     172230, -- Soul Dust
     172231, -- Sacred Shard
     172232, -- Eternal Crystal
+
     -- Ring Enchants
     172362, -- Enchant Ring - Tenet of Haste
     172364, -- Enchant Ring - Tenet of Versatility
@@ -20,6 +21,9 @@ AddonTable.enchanting = {
     -- Glove Enchants
     172407, --Enchant Gloves - Strength of Soul
 
+    -- Foot Enchants
+    172413, -- Enchant Boots - Agile Soulwalker
+    
     -- Wands
     172462, -- Enchanted Twilight Wand
 
