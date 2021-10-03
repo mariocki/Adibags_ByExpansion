@@ -16,6 +16,8 @@ AddonTable.enchanting = {
     172368,
     -- Glove Enchants
     172407, --Enchant Gloves - Strength of Soul
+    -- Foot Enchants
+    172413,
     -- Wands
     172462,
     -- Enchanted Vellums

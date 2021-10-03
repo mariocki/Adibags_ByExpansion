@@ -28,6 +28,7 @@ AddonTable.anima = {
     184151, -- Counterfeit Ruby Brooch
     184152, -- Bottle of Diluted Anima-Wine
     184286, -- Extinguished Soul Anima
+    184293,
     184305, -- Maldraxxi Champion's Armaments
     184306, -- Soulcathcing Sludge
     184307, -- Maldraxxi Armor Scraps
@@ -42,11 +43,14 @@ AddonTable.anima = {
     184382, -- Luminous Sylberry
     184383, -- Duskfall Tuber
     184384, -- Hibernal Sproutling
+    184385,
+    184386,
     184387, -- Misty Shimmerleaf
     184763, -- Mnemis Neural Network
     184765, -- Vesper Strikehammer
     184766, -- Chronicles of the Paragons
     184767, -- Handheld Soul Mirror
+    184770,
     184772, -- Ritual Maldracite Crystal
     184773, -- Battle-Tested Armor Componen
     184774, -- Juvenile Sporespindle

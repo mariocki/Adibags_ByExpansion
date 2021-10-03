@@ -185,4 +185,5 @@ AddonTable.conduits = {
     183512, -- Planned Execution
     183513, -- Stilleto Staccato
     183514, -- Perforated Veins
+    187216, -- SoultwiningCrescent
 }
