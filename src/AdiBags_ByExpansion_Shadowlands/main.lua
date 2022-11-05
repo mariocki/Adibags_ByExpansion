@@ -10,6 +10,7 @@ local options = core:GetOptions()
 categories['Anima'] = "Anima"
 categories['Conduits'] = "Conduits"
 categories['Legendaries'] = "Legendary"
+categories['Korthia'] = 'Korthia'
 options['Anima'] = {
     name = "Anima",
     desc = 'Anima Consumables',
@@ -57,7 +58,11 @@ local module = {
         ["multiple"] = "Multiple",
         ["torghast"] = "Torghast"
     },
-    ["raids"] = {},
+    ["raids"] = {
+        ["castlenathria"] = "Castle Nathria",
+        ["domination"] = "Sanctum of Domination",
+        ["sepulcher"] = "Sepulcher of the First Ones"
+    },
     ["options"] = options
 }
 
@@ -67,6 +72,7 @@ core:LoadCategories(AddonTable, module)
 core:AddCategoryItems(AddonTable.legendaries, "Legendaries", module)
 core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
 core:AddCategoryItems(AddonTable.anima, "Anima", module)
+------ ???
 core:AddCategoryItems(AddonTable.korthia, "Korthia", module)
 
 core:LoadExpansion(module)
