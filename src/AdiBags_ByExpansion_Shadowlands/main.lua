@@ -11,6 +11,7 @@ categories['Anima'] = "Anima"
 categories['Conduits'] = "Conduits"
 categories['Legendaries'] = "Legendary"
 categories['Korthia'] = 'Korthia'
+categories['ZerethMortis'] = "ZerethMortis"
 options['Anima'] = {
     name = "Anima",
     desc = 'Anima Consumables',
@@ -34,6 +35,12 @@ options['Korthia'] = {
     desc = 'Korthia Item',
     type = 'toggle',
     order = 93,
+}
+options['ZerethMortis'] = {
+    name = "Zereth Mortis",
+    desc = 'Zereth Mortis Item',
+    type = 'toggle',
+    order = 94,
 }
 
 local module = {
@@ -74,5 +81,6 @@ core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
 core:AddCategoryItems(AddonTable.anima, "Anima", module)
 ------ ???
 core:AddCategoryItems(AddonTable.korthia, "Korthia", module)
+core:AddCategoryItems(AddonTable.zerethMortis, "ZerethMortis", module)
 
 core:LoadExpansion(module)

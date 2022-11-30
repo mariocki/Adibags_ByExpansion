@@ -6,4 +6,5 @@ AddonTable.fishing = {
     173034, -- Silvergill Pike
     173035, -- Pocked Bonefish
     173036, -- Spinefin Piranha
+    187712  -- Precursor Placoderm Bait
 }

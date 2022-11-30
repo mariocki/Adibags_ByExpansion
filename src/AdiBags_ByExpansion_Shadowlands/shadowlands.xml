@@ -48,6 +48,7 @@
     <Script file="raids\sepulcher.lua"/>
     
     <Script file="zones\korthia.lua"/>
+    <Script file="zones\zerethMortis.lua"/>
 
     <Script file="main.lua"/>
 

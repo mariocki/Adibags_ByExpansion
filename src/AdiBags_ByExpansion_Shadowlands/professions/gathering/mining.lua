@@ -15,6 +15,7 @@ AddonTable.mining = {
     171831, -- Phaedrum Ore
     171832, -- Sinvyr Ore
     171833, -- Elethium Ore
+    187700, -- Progenium Ore
     -- Stone
     171840, -- Porous Stone
     171841, -- Shaded Stone
