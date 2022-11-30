@@ -63,6 +63,7 @@ AddonTable.transmog = {
     55531, -- Crystalvein Helm
     55538, -- Ravencrest Legplates
     55441, -- Blackwolf Spellblade
+    55547, -- Ravencrest Pauldrons
     55548, -- Stonewrought Pauldrons
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
@@ -108,6 +109,7 @@ AddonTable.transmog = {
 
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
+    55702, -- Ravenholdt Waistband
     55709, -- Everstill Wristwraps
     55710, -- Mystral Wristwraps
     55711, -- Bluefen Wristwraps
