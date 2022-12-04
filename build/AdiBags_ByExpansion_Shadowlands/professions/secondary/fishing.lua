@@ -5,5 +5,7 @@ AddonTable.fishing = {
     173034,
     173035,
     173036,
-    187712  -- Precursor Placoderm Bait
+    173037,
+    -- 9.2
+    187702,
 }

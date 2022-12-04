@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.2] - 2022-11-23
+### Fixed
+ - Fix right click vendor functionality
+
+## [1.5.1] - 2022-11-13
+ - Shadowlands(Korthia) fixes.
+ - Updated dragonflight toc
+ - Add data from shadowlands raids past nathria
+ - Add Vault of the Incarnates raid loot (DF)
+ - Add Dragonflight dungeon loot
+
 ## [1.5.0] - 2022-11-01
 ### Changed
  - Update TOC for 10.0

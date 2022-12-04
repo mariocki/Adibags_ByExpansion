@@ -5,7 +5,14 @@ local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 
 -- Create the default categories
 local categories = core:GetDefaultCategories()
+categories["ProfessionEquipment"] = "Profession Equipment"
 local options = core:GetOptions()
+options["ProfessionEquipment"] = {
+    name = "Profession Equipment",
+    desc = "Profession Equipment",
+    type = 'toggle',
+    order = 90,
+}
 
 local module = {
     ["name"] = "Dragonflight",
@@ -13,7 +20,7 @@ local module = {
     ["namespace"] = "abe_dragonflight",
     ["prefix"] = {
         ["num"] = "10. ",
-        ["title"] = "10",
+        ["title"] = "Dragonflight",
         ["icon"] = "",
     },
     ["description"] = "Dragonflight",
@@ -38,5 +45,6 @@ local module = {
 core:AddExpansion(module)
 
 core:LoadCategories(AddonTable, module)
+core:AddCategoryItems(AddonTable.professionequipment, "ProfessionEquipment", module)
 
 core:LoadExpansion(module)

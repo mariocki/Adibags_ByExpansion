@@ -1,13 +1,9 @@
 local AddonName, AddonTable = ...
 -- Dragonflight Cooking
 AddonTable.cooking = {
-    194966,
-    194969,
-    197741,
+    -- Meat
     197744,
-    197746,
-    197747,
-    197748,
-    197754,
-    197756,
+    197741,
+    -- Other
+    197745,
 }
