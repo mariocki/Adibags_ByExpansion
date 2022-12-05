@@ -15,4 +15,9 @@ AddonTable.cooking = {
     197756,
     -- Other
     197745, -- Basilisk Eggs
+    197757, -- Assorted Exotic Spices
+    194967, -- Aileron Seamoth
+    194969, -- Cerulean Spinefish
+    194970, -- Islefin Dorado
+
 }
