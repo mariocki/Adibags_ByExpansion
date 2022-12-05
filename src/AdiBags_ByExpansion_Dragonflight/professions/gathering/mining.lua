@@ -2,13 +2,12 @@ local AddonName, AddonTable = ...
 
 -- Dragonflight Mining
 AddonTable.mining = {
-    190395, -- Serevite Ore
-    190396, -- Serevite Ore
-    189143, -- Draconium Ore (Bronze [1])
     188658, -- Draconium Ore (Silver [2])
+    189143, -- Draconium Ore (Bronze [1])
     190312, -- Khaz'gorite Ore (Rare)
     190313, -- Khaz'gorite Ore
     190395, -- Serevite Ore
+    190396, -- Serevite Ore
     197754, -- Salt Deposit
 
     -- Knowledge
