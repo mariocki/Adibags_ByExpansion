@@ -4,6 +4,7 @@ AddonTable.jewelcrafting = {
     192837, -- Queen's Ruby
     192838, -- Queen's Ruby
     192840, -- Mystic Sapphire
+    192841, -- Mystic Sapphire
     192843, -- Vibrant Emerald
     192844, -- Vibrant Emerald
     192845, -- Vibrant Emerald
@@ -24,6 +25,8 @@ AddonTable.jewelcrafting = {
     192872, -- Fractured Glass
     192880, -- Crumbled Stone
     193368, -- Silken Gemdust
+
+    194545, -- Prismatic Ore
 
     -- Gems
     192907, -- Energized Vibrant Emerald
