@@ -5,7 +5,6 @@ AddonTable.cooking = {
     -- Meat
     194966,
     194968, --Cerulean Spinefish
-    194969,
     197741, -- Maybe Meat
     197742, -- Ribbed Mollusk Meat
     197743,
@@ -16,6 +15,7 @@ AddonTable.cooking = {
     197752, -- Conveniently Packaged Ingredients
     197754,
     197756,
+    197742, -- Ribbed Mollusk Meat (Clams)
     -- Other
     197745, -- Basilisk Eggs
     197757, -- Assorted Exotic Spices
