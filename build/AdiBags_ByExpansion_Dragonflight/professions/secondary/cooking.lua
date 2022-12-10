@@ -4,7 +4,6 @@ AddonTable.cooking = {
     -- Meat
     194966,
     194968, --Cerulean Spinefish
-    194969,
     197741,
     197742,
     197743,
@@ -15,6 +14,7 @@ AddonTable.cooking = {
     197752,
     197754,
     197756,
+    197742,
     -- Other
     197745,
     197757,
