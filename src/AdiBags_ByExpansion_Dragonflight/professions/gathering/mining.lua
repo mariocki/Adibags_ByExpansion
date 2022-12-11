@@ -6,6 +6,7 @@ AddonTable.mining = {
     189143, -- Draconium Ore (Bronze [1])
     190312, -- Khaz'gorite Ore (Rare)
     190313, -- Khaz'gorite Ore
+    190394, -- Serevite Ore
     190395, -- Serevite Ore
     190396, -- Serevite Ore
     197754, -- Salt Deposit

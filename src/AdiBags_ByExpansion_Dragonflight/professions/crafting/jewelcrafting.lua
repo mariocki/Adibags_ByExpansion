@@ -14,9 +14,11 @@ AddonTable.jewelcrafting = {
     192850, -- Eternity Amber
     192851, -- Eternity Amber
     192852, -- Alexstraszite
+    192853, -- Alexstraszite
     192856, -- Malygite
     192857, -- Malygite
     192859, -- Ysemerald
+    192860, -- Ysemerald
     192862, -- Neltharite
     192863, -- Neltharite
     192866, -- Nozdorite

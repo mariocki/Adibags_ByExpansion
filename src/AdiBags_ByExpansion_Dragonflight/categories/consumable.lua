@@ -11,9 +11,16 @@ AddonTable.consumable = {
 
 AddonTable.openables = {
     190954, -- Serevite Lockbox
+    198657, -- Forgotten Jewelry Box
 }
 
 AddonTable.fooddrink = {
+    197777, -- Hopefully Healthy
+    197791, -- Salted Meat Mash
+    200759, -- Aruunem Berrytart
+    200885, -- Cinna-Cinderbloom Tea
+    200886, -- Lemon Silverleaf Tea
+
 }
 
 AddonTable.alcohol = {
