@@ -29,14 +29,20 @@ AddonTable.jewelcrafting = {
     192864, -- Neltharite III
     192866, -- Nozdorite
     192867, -- Nozdorite
-    192869, -- Illimited Diamond
+    192869, -- Illimited Diamond I
+    192870, -- Illimited Diamond II
+    192871, -- Illimited Diamond III
     192872, -- Fractured Glass
     192880, -- Crumbled Stone
-    193368, -- Silken Gemdust
+    193368, -- Silken Gemdust I
+    193369, -- Silken Gemdust II
+    193370, -- Silken Gemdust III
 
     194545, -- Prismatic Ore
 
     -- Gems
     192907, -- Energized Vibrant Emerald
 
+    -- Crafted
+    192877, -- Frameless Lens II
 }

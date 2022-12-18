@@ -5,7 +5,7 @@ AddonTable.jewelcrafting = {
     76131, -- Primordial Ruby
     76132, -- Primal Diamond
     76133, -- Lapis Lazuli
-    76134, -- Sunstone    
+    76134, -- Sunstone
     76135, -- Roguestone
     76136, -- Pandarian Garnet
     76137, -- Alexandrite
@@ -14,4 +14,6 @@ AddonTable.jewelcrafting = {
     76140, -- Vermillion Onyx
     76141, -- Imperial Amethys
     76142, -- Sun's Radiance
+
+    76734, -- Serpent's Eye
 }
