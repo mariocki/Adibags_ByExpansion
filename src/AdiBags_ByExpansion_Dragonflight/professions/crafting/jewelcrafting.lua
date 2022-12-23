@@ -16,8 +16,9 @@ AddonTable.jewelcrafting = {
     192849, -- Eternity Amber I
     192850, -- Eternity Amber II
     192851, -- Eternity Amber III
-    192852, -- Alexstraszite
-    192853, -- Alexstraszite
+    192852, -- Alexstraszite I
+    192853, -- Alexstraszite II
+    192855, -- Alexstraszite III
     192856, -- Malygite I
     192857, -- Malygite II
     192858, -- Malygite III
@@ -27,8 +28,9 @@ AddonTable.jewelcrafting = {
     192862, -- Neltharite I
     192863, -- Neltharite II
     192864, -- Neltharite III
-    192866, -- Nozdorite
-    192867, -- Nozdorite
+    192866, -- Nozdorite I
+    192867, -- Nozdorite II
+    192868, -- Nozdorite III
     192869, -- Illimited Diamond I
     192870, -- Illimited Diamond II
     192871, -- Illimited Diamond III

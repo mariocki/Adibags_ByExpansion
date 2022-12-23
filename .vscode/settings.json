@@ -2,5 +2,8 @@
   "files.exclude": {
     "build/": true,
     ".github/": true
-  }
+  },
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "master"
+  ]
 }
