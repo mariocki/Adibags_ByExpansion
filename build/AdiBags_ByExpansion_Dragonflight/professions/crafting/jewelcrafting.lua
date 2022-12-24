@@ -43,5 +43,9 @@ AddonTable.jewelcrafting = {
     -- Gems
     192907,
     -- Crafted
+    192835,
+    192876,
     192877,
+    192884,
+    192885,
 }

@@ -46,5 +46,9 @@ AddonTable.jewelcrafting = {
     192907, -- Energized Vibrant Emerald
 
     -- Crafted
+    192835, -- Shimmering Clasp II
+    192876, -- Frameless Lens I
     192877, -- Frameless Lens II
+    192884, -- Glossy Stone II
+    192885, -- Glossy Stone III
 }
