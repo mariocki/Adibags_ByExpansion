@@ -27,7 +27,7 @@ AddonTable.jewelcrafting = {
     192861, -- Ysemerald III
     192862, -- Neltharite I
     192863, -- Neltharite II
-    192864, -- Neltharite III
+    192865, -- Neltharite III
     192866, -- Nozdorite I
     192867, -- Nozdorite II
     192868, -- Nozdorite III
