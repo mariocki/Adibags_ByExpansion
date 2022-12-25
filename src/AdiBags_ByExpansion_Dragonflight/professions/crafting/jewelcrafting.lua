@@ -51,4 +51,5 @@ AddonTable.jewelcrafting = {
     192877, -- Frameless Lens II
     192884, -- Glossy Stone II
     192885, -- Glossy Stone III
+    193030, -- Projection Prism II
 }
