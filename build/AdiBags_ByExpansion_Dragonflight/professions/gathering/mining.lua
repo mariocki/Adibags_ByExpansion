@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.mining = {
     188658,
     189143,
+    190311,
     190312,
     190313,
     190394,

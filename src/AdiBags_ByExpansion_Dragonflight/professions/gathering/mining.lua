@@ -4,11 +4,12 @@ local AddonName, AddonTable = ...
 AddonTable.mining = {
     188658, -- Draconium Ore (Silver [2])
     189143, -- Draconium Ore (Bronze [1])
-    190312, -- Khaz'gorite Ore (Rare)
-    190313, -- Khaz'gorite Ore
-    190394, -- Serevite Ore
-    190395, -- Serevite Ore
-    190396, -- Serevite Ore
+    190311, -- Draconium Ore III
+    190312, -- Khaz'gorite Ore I
+    190313, -- Khaz'gorite Ore II
+    190394, -- Serevite Ore III
+    190395, -- Serevite Ore I
+    190396, -- Serevite Ore II
     197754, -- Salt Deposit
 
     -- Knowledge
