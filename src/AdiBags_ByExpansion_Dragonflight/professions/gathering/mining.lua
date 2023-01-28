@@ -7,6 +7,7 @@ AddonTable.mining = {
     190311, -- Draconium Ore III
     190312, -- Khaz'gorite Ore I
     190313, -- Khaz'gorite Ore II
+    190314, -- Khaz'gorite Ore III
     190394, -- Serevite Ore III
     190395, -- Serevite Ore I
     190396, -- Serevite Ore II
