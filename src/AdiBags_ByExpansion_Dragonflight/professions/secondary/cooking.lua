@@ -22,7 +22,10 @@ AddonTable.cooking = {
     194967, -- Aileron Seamoth
     194969, -- Cerulean Spinefish
     194970, -- Islefin Dorado
+    199344, -- Magma Thresher
     200061, -- Prismatic Leaper
+    200074, -- Frostyed Rimefin Tuna
+
 
 
 }
