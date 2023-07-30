@@ -1,10 +1,19 @@
 local AddonName, AddonTable = ...
 -- Dragonflight Consumable
 AddonTable.consumable = {
+    191321,
+    191333,
+    191345,
+    191354,
+    191363,
     191378,
     191384,
     191393,
     191396,
+    192055,
+    200443,
+    200447,
+    200450,
     201325,
 }
 AddonTable.openables = {
