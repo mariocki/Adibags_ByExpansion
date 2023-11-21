@@ -26,13 +26,18 @@ AddonTable.trade = {
     190450, -- Awakened Ire
     190451, -- Rousing Ire
     191474, -- Draconic Vial I
+    191496, -- Omnium Draconis I1
     191497, -- Omnium Draconis II
+    194575, -- Draconic Missive of the Harmonious
     201401, -- Iridescent Plume
     204440, -- Spark of Shadowflame
+    204460, -- Zaralek Glowspores
     -- Optional Reagents
     --- Titan Training (iLvl Setting)
+
     198048, -- Titan Training Matrix I
     198056, -- Titan Training Matrix II
     198058, -- Titan Training Matrix III
     198059, -- Titan Training Matrix IV
+
 }
