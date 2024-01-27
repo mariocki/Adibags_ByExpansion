@@ -6,11 +6,13 @@ AddonTable.consumable = {
     191319, -- Phial of the Eye  in the Storm II
     191321, -- Phial of Still Air I
     191323, -- Phial of Still Air III
+    191324, -- Phial of Icy Rage I
     191328, -- Iced Phial of Corrupting Rage II
     191331, -- Phial of Charged Islolation II
     191333, -- Phial of Glacial Fury I
     191334, -- Phial of Glacial Fury II
     191335, -- Phial of Glacial Fury III
+    191336, -- Phial of Static Empowerment I
     191337, -- Phial of Static Empowerment II
     191339, -- Phial of Tepid Versatility I
     191340, -- Phial of Tepid Versatility II
@@ -22,6 +24,7 @@ AddonTable.consumable = {
     191354, -- Crystalline Phial of Perception I
     191356, -- Crystalline Phial of Perception III
     191363, -- Potion of Frozen Focus I
+    191364, -- Potion of Frozen Focus II
     191372, -- Residual Neural Channeling Augment I
     191373, -- Residual Neural Channeling Augment II
     191378, -- Refreshing Healing Potion [Bronze]

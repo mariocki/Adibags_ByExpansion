@@ -52,4 +52,6 @@ AddonTable.jewelcrafting = {
     192884, -- Glossy Stone II
     192885, -- Glossy Stone III
     193030, -- Projection Prism II
+
+    200865, -- Glimmering Ysemerald Cluster
 }
