@@ -54,4 +54,5 @@ AddonTable.jewelcrafting = {
     193030, -- Projection Prism II
 
     200865, -- Glimmering Ysemerald Cluster
+    200867, -- Glimmering Neltharite Cluster
 }

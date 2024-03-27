@@ -15,7 +15,6 @@ AddonTable.cooking = {
     197752, -- Conveniently Packaged Ingredients
     197754,
     197756,
-    197742, -- Ribbed Mollusk Meat (Clams)
     -- Other
     197745, -- Basilisk Eggs
     197757, -- Assorted Exotic Spices

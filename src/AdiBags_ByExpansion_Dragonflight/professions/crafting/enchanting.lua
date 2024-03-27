@@ -6,6 +6,7 @@ AddonTable.enchanting = {
     194124, -- Vibrant Shard
 
     -- Enchants
+    199946, -- Enchant Chest - Waking Stats
     199984, -- Enchant Bracer - Writ of Speed
 
     -- Knowledge

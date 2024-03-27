@@ -20,10 +20,13 @@ AddonTable.tailoring = {
     193928, -- Wildercloth Bolt III
     193929, -- Vibrant Wildercloth Bolt (Bronze [1])
     193930, -- Vibrant Wildercloth Bolt II
+    193938, -- Azureweath Bolt
+    193939, -- Azureweath Bolt
 
     -- Thread
     192095, -- Spool of Wilderthread (Bronze [1])
     192096, -- Spool of Wilderthread II
+    192097, -- Spool of Wilderthread III
     193956, -- Blazing Embroidery Thread (Bronze [1])
 
     -- Other

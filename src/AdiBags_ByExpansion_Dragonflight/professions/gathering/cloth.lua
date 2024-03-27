@@ -8,8 +8,6 @@ AddonTable.cloth = {
     193924, -- Frostbitten Wildercloth
     193925, -- Singed Wildercloth
     193050, -- Tattered Wildercloth (Base)
+    193053, -- Contoured Fowlfeather
 
-    -- Bolts
-    193938, -- Azureweath Bolt
-    193939, -- Azureweath Bolt
 }
